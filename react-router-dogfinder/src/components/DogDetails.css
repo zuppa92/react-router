@@ -1,0 +1,28 @@
+.DogDetails {
+  text-align: center;
+}
+
+.DogDetails img {
+  width: 300px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.DogDetails ul {
+  list-style: none;
+  padding: 0;
+}
+
+.DogDetails a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.DogDetails a:hover {
+  background-color: #555;
+}
